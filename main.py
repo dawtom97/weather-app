@@ -29,6 +29,7 @@ def weather_data():
 
 
 
+# Start project
 while True:
     weather_data()
     time.sleep(10)
