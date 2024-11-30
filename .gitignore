@@ -1,0 +1,10 @@
+venv
+/venv
+
+utils/test_mongo.py
+/utils/test_mongo.py
+
+pogoda.xlsx
+
+.idea/
+/.idea/
